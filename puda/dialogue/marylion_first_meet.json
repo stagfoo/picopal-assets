@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Start",
+		"tags": "",
+		"body": "You meet a small flower mermaid crying.\nShe want's to go on adventures but is rooted in the ground.\nIf you can help her, she would gladly help you on your journey.",
+		"position": {
+			"x": 103,
+			"y": 152
+		},
+		"colorID": 1
+	},
+	{
+		"title": "rooted",
+		"tags": "",
+		"body": "",
+		"position": {
+			"x": 353,
+			"y": 156
+		},
+		"colorID": 1
+	},
+	{
+		"title": "help",
+		"tags": "",
+		"body": "",
+		"position": {
+			"x": 596,
+			"y": 162
+		},
+		"colorID": 1
+	}
+]
